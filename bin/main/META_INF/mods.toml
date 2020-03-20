@@ -1,0 +1,12 @@
+# Mod loader info
+modLoader = "javafml"
+loaderVersion = "31"
+
+# Mod meta
+issueTrackerURL="https://github.com/Ewpratten/vping/issues"
+showAsResourcePack=false
+
+[[mods]]
+    modId="vping"
+    version="0.0.1"
+    displayName="Vanilla Ping"
